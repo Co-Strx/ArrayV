@@ -1,6 +1,8 @@
 # ArrayV
 
 (This fork is a work in progress version of w0rthy's ArrayV that intends to improve UI/UX)
+(All following information is by the original team.)
+
 
 ![Discord](https://img.shields.io/discord/592082838791127075?color=%237289DA&label=Discord&logo=discord&logoColor=white)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Gaming32/ArrayV/maven.yml?branch=main)
